@@ -1,2 +1,0 @@
-#define MAXPATHLEN 256
-#define PACKAGE_VERSION "1.9"

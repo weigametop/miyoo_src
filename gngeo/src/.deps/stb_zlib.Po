@@ -1,3 +1,0 @@
-stb_zlib.o: stb_zlib.c ../config.h
-
-../config.h:

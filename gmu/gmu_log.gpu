@@ -1,3 +1,0 @@
-#!/bin/sh
-./gmu.gpu 2>log.txt >log.txt
-

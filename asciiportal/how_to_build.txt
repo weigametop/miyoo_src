@@ -1,4 +1,0 @@
-$ cd PDCurses/sdl1
-$ make
-$ cd ../../
-$ make linux
